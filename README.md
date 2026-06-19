@@ -60,3 +60,10 @@ code-docstring/
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+
+## 🖼️ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20210806.png)
+
+
