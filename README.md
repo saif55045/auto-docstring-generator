@@ -1,4 +1,4 @@
-# 📝 Auto Docstring Generator
+﻿# 📝 Auto Docstring Generator
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)](https://python.org/)
@@ -7,6 +7,12 @@
 A machine learning pipeline for automatically generating Python docstrings from source code. This project explores code understanding and natural language generation techniques to produce meaningful, structured documentation for Python functions.
 
 ---
+
+
+## ðŸ–¼ï¸ Screenshots
+
+![Screenshot](assets/Screenshot%202026-06-18%20210806.png)
+
 
 ## ✨ Features
 
@@ -65,5 +71,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## 🖼️ Screenshots
 
 ![Screenshot](assets/Screenshot%202026-06-18%20210806.png)
-
-
