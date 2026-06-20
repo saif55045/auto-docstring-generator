@@ -8,8 +8,7 @@ A machine learning pipeline for automatically generating Python docstrings from 
 
 ---
 
-
-## ðŸ–¼ï¸ Screenshots
+## 🖼️ Screenshots
 
 ![Screenshot](assets/Screenshot%202026-06-18%20210806.png)
 
@@ -67,7 +66,3 @@ code-docstring/
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
-
-## 🖼️ Screenshots
-
-![Screenshot](assets/Screenshot%202026-06-18%20210806.png)
